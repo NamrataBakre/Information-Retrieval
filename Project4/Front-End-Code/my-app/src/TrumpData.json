@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Tweets Search Results",
+    "slug": "tweets-search-results",
+    "content": "The complete content of whatever needs to be rendered under Tweets Search"
+  },
+  {
+    "title": "News Search Results",
+    "slug": "news-search-results",
+    "content": "The complete content of whatever needs to be rendered under News Search"
+  },
+  {
+    "title": "Analytics",
+    "slug": "analytics",
+    "content": "The complete content of whatever needs to be rendered under Analytics"
+  }
+]
